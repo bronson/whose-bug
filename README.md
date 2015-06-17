@@ -1,3 +1,10 @@
+### Status
+
+... and the bug is fixed!  In the last four years someone made a
+change to one of the packages in the Gemfile and cured the problem.
+
+### Original Bug
+
 There's a bad interaction between a bunch of gems.  I haven't been
 able to figure out whose fault it is.
 
